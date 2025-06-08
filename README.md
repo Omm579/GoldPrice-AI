@@ -405,7 +405,7 @@ in the Software without restriction...
 ## 📞 Support & Contact
 
 ### Getting Help
-- **📖Documentation**: [ Download the file from here](https://drive.google.com/file/d/1YxHfTMQrDlsfWB7r-K03nZjcF0HsTumy/view?usp=drivesdk)
+- **📖Documentation**: [ Download the file from here](https://drive.google.com/drive/folders/1yAl7Mfc-1yArmHN2NWT7UMucSoUkwMTD?usp=drive_link)
 - **📧 Email Support**: omdebasish.2006@gmail.com
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/Omm579/GoldPrice-AI/issues)
 
