@@ -412,10 +412,6 @@ in the Software without restriction...
 - **🐦 GitHub**: [@Omm579](https://github.com/Omm579)
 - **💼 LinkedIn**: [@Om Debasish](https://www.linkedin.com/in/om-debasish-07ba92321/)
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Omm579/GoldPrice-AI&type=Date)](https://star-history.com/#Omm579/GoldPrice-AI&08-06-2025)
-
 ---
 
 <div align="center">
