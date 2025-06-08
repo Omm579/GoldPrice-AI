@@ -6,7 +6,7 @@ Gold Price AI is an intelligent forecasting system that utilizes state-of-the-ar
 
 ## 🌐 Live Demo
 
-**[🚀 View Live Application](https://meek-conkies-61f710.netlify.app/)**
+**🚀 [View Live Application](https://meek-conkies-61f710.netlify.app/)**
 
 ## 🎯 Project Overview
 
@@ -93,8 +93,8 @@ Git
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/gold-price-ai.git
-   cd gold-price-ai
+   git clone https://github.com/Omm579/GoldPrice-AI.git
+   cd GoldPrice-AI
    ```
 
 2. **Install Dependencies**
@@ -116,6 +116,9 @@ Git
    ```bash
    npm run preview
    ```
+
+6. **Access Application**
+Open http://localhost:5173 in your browser
 
 ## 📊 Model Performance Metrics
 
@@ -219,7 +222,7 @@ npm run preview
 # Optional: For future API integrations
 VITE_GOLD_API_KEY=your_api_key_here
 VITE_NEWS_API_KEY=your_news_api_key
-VITE_API_BASE_URL=https://api.goldprice.ai
+VITE_API_BASE_URL=https://api.GoldPrice-AI
 ```
 
 ## 🧪 Testing
@@ -323,14 +326,14 @@ SOFTWARE.
 ## 📞 Support & Contact
 
 ### Getting Help
-- **📖 Documentation**: Check the inline code comments and component documentation
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/yourusername/gold-price-ai/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/yourusername/gold-price-ai/discussions)
+- **📖 Documentation**: [Download the document from here](https://drive.google.com/file/d/1c8hjk3-KoJQV8s6GcbGN6maAm67Z431k/view?usp=drive_link)
+- **🐛 Bug Reports**: [GitHub Issues](https://github.com/Omm579/GoldPrice-AI/issues)
+- **💡 Feature Requests**: [GitHub Discussions](https://github.com/Omm579/GoldPrice-AI/discussions)
 
-### Connect With Us
-- **🐦 Twitter**: [@GoldPriceAI](https://twitter.com/goldpriceai)
-- **💼 LinkedIn**: [Gold Price AI](https://linkedin.com/company/goldpriceai)
-- **📧 Email**: contact@goldprice.ai
+### Connect With Me
+- **🐦 GitHub**: [GitHub Profile](https://github.com/Omm579)
+- **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/om-debasish-07ba92321/)
+- **📧 Email**: omdebasish.2006@gmail.com
 
 ## 🔧 Technical Stack
 
@@ -367,8 +370,7 @@ SOFTWARE.
 
 *This application is for educational and research purposes only. Predictions should not be used as the sole basis for financial decisions. Gold trading involves substantial risk of loss. Always consult with qualified financial advisors before making investment decisions.*
 
-**Made with ❤️ by the Gold Price AI Team**
+**Made with ❤️ by Om Debasish**
 
-[🌟 Star this repo](https://github.com/yourusername/gold-price-ai) | [🐛 Report Bug](https://github.com/yourusername/gold-price-ai/issues) | [💡 Request Feature](https://github.com/yourusername/gold-price-ai/discussions)
 
 </div>
