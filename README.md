@@ -118,7 +118,9 @@ Git
    ```
 
 6. **Access Application**
-Open http://localhost:5173 in your browser
+   ```
+   Open http://localhost:5173 in your browser
+   ```
 
 ## 📊 Model Performance Metrics
 
