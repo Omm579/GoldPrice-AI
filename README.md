@@ -409,7 +409,7 @@ in the Software without restriction...
 - **📧 Email Support**: omdebasish.2006@gmail.com
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/Omm579/GoldPrice-AI/issues)
 
-### Connect With Us
+### Connect With Me
 - **🐦 GitHub**: [@Omm579](https://github.com/Omm579)
 - **💼 LinkedIn**: [@Om Debasish](https://www.linkedin.com/in/om-debasish-07ba92321/)
 
