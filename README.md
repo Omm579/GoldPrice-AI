@@ -194,42 +194,6 @@ Content-Type: application/json
   "timestamp": "2024-06-08T10:30:00Z"
 }
 ```
-
-## 📁 Project Structure
-
-```
-GoldPrice-AI/
-├── 📂 src/
-│   ├── 🧠 models/              # ML model implementations
-│   │   ├── lstm_model.py
-│   │   ├── dnn_model.py
-│   │   └── ensemble.py
-│   ├── 📊 data/                # Data processing modules
-│   │   ├── collectors/         # Data collection scripts
-│   │   ├── preprocessors/      # Data cleaning & feature engineering
-│   │   └── validators/         # Data quality checks
-│   ├── 🔧 utils/               # Utility functions
-│   ├── 🌐 api/                 # REST API endpoints
-│   └── 🎨 frontend/            # Frontend components
-├── 📱 static/
-│   ├── css/                    # Stylesheets
-│   ├── js/                     # JavaScript modules
-│   └── assets/                 # Images, icons, fonts
-├── 📋 templates/               # HTML templates
-├── 📈 data/
-│   ├── raw/                    # Raw data files
-│   ├── processed/              # Cleaned datasets
-│   └── models/                 # Trained model files
-├── 📓 notebooks/               # Jupyter analysis notebooks
-├── 🧪 tests/                   # Test suites
-├── 🐳 docker/                  # Docker configurations
-├── 📚 docs/                    # Documentation
-├── ⚙️ config/                  # Configuration files
-├── 📦 requirements.txt         # Python dependencies
-├── 🚀 app.py                   # Main application
-└── 📖 README.md               # This file
-```
-
 ## 📈 Data Sources & Features
 
 ### Market Data Sources
