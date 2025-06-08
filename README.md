@@ -420,6 +420,6 @@ in the Software without restriction...
 
 *This application is for educational and research purposes only. Predictions should not be used as the sole basis for financial decisions. Gold trading involves substantial risk of loss. Always consult with qualified financial advisors before making investment decisions.*
 
-**Made with ❤️ by the Gold Price AI Team**
+**Made with ❤️ by Om Debasish**
 
 </div>
