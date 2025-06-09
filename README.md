@@ -329,7 +329,6 @@ SOFTWARE.
 ## 📞 Support & Contact
 
 ### Getting Help
-- **📖 Documentation**: [Download the document from here](https://drive.google.com/file/d/1c8hjk3-KoJQV8s6GcbGN6maAm67Z431k/view?usp=drive_link)
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/Omm579/GoldPredict-AI/issues)
 - **💡 Feature Requests**: [GitHub Discussions](https://github.com/Omm579/GoldPredict-AI/discussions)
 
