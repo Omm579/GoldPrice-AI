@@ -330,13 +330,14 @@ SOFTWARE.
 
 ### Getting Help
 - **📖 Documentation**: [Download the document from here](https://drive.google.com/file/d/1c8hjk3-KoJQV8s6GcbGN6maAm67Z431k/view?usp=drive_link)
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/Omm579/GoldPrice-AI/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/Omm579/GoldPrice-AI/discussions)
+- **🐛 Bug Reports**: [GitHub Issues](https://github.com/Omm579/GoldPredict-AI/issues)
+- **💡 Feature Requests**: [GitHub Discussions](https://github.com/Omm579/GoldPredict-AI/discussions)
 
 ### Connect With Me
+- **🧑🏻‍💻Developer**: [Om Debasish]
+- **📧 Email**: omdebasish.2006@gmail.com
 - **🐦 GitHub**: [GitHub Profile](https://github.com/Omm579)
 - **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/om-debasish-07ba92321/)
-- **📧 Email**: omdebasish.2006@gmail.com
 
 ## 🔧 Technical Stack
 
@@ -364,6 +365,10 @@ SOFTWARE.
   }
 }
 ```
+
+## ⭐ Show Your Support
+
+If you found this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
